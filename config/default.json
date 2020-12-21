@@ -1,0 +1,6 @@
+{
+	"port":5000,
+	"jwtSecret":"Dimon's secret",
+	"mongoURI":"mongodb+srv://Dmitry2205:development1804@cluster0.v53rr.mongodb.net/mern?retryWrites=true&w=majority"
+
+}
